@@ -1,0 +1,5 @@
+
+#include "cmsis_gcc.h"
+
+
+__set_CONTROL(1);
